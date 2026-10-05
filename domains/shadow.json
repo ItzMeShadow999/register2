@@ -1,7 +1,7 @@
 {
     "title": "ItzMeShadow999",
     "description": "Personal site and projects by ItzMeShadow999",
-    "domain": "creepers.sbs",
+    "domain": "a-dev.sbs",
     "subdomain": "shadow",
 
     "country_code": "none",
@@ -17,13 +17,13 @@
     },
     "proxy": false,
 
-    "domain_2": ".pro",
+    "domain_2": "creepers.pro",
     "record_2": {
         "CNAME": "itzmeshadow.pages.dev"
     },
     "proxy_2": false,
 
-    "domain_3": ".lol",
+    "domain_3": "creepers.lol",
     "record_3": {
         "CNAME": "itzmeshadow.pages.dev"
     },
